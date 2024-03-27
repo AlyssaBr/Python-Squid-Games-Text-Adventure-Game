@@ -58,4 +58,4 @@ Squid Game Themed Text Adventure Game: Python Edition
 
 Written by: Alyssa Brunen
 
-I hope I intrigued you to play :) 
+# I hope I intrigued you to play ;) 
